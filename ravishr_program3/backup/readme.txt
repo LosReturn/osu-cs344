@@ -1,1 +1,0 @@
-Removes foreground pid from array once done
